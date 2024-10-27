@@ -1,0 +1,492 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hsyn\\source\\repos\\AirportProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{46F7E307-5FBC-43FB-8ECD-D097FC8A977C}|AirportProject\\AirportProject.csproj|c:\\users\\hsyn\\source\\repos\\airportproject\\airportproject\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46F7E307-5FBC-43FB-8ECD-D097FC8A977C}|AirportProject\\AirportProject.csproj|solutionrelative:airportproject\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46F7E307-5FBC-43FB-8ECD-D097FC8A977C}|AirportProject\\AirportProject.csproj|c:\\users\\hsyn\\source\\repos\\airportproject\\airportproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46F7E307-5FBC-43FB-8ECD-D097FC8A977C}|AirportProject\\AirportProject.csproj|solutionrelative:airportproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46F7E307-5FBC-43FB-8ECD-D097FC8A977C}|AirportProject\\AirportProject.csproj|c:\\users\\hsyn\\source\\repos\\airportproject\\airportproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46F7E307-5FBC-43FB-8ECD-D097FC8A977C}|AirportProject\\AirportProject.csproj|solutionrelative:airportproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F8736AA-0519-4529-8882-15FF71B8A3F1}|Services\\Services.csproj|c:\\users\\hsyn\\source\\repos\\airportproject\\services\\concrete\\servicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F8736AA-0519-4529-8882-15FF71B8A3F1}|Services\\Services.csproj|solutionrelative:services\\concrete\\servicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F8736AA-0519-4529-8882-15FF71B8A3F1}|Services\\Services.csproj|c:\\users\\hsyn\\source\\repos\\airportproject\\services\\contract\\iservicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F8736AA-0519-4529-8882-15FF71B8A3F1}|Services\\Services.csproj|solutionrelative:services\\contract\\iservicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46F7E307-5FBC-43FB-8ECD-D097FC8A977C}|AirportProject\\AirportProject.csproj|c:\\users\\hsyn\\source\\repos\\airportproject\\airportproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46F7E307-5FBC-43FB-8ECD-D097FC8A977C}|AirportProject\\AirportProject.csproj|solutionrelative:airportproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46F7E307-5FBC-43FB-8ECD-D097FC8A977C}|AirportProject\\AirportProject.csproj|c:\\users\\hsyn\\source\\repos\\airportproject\\airportproject\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46F7E307-5FBC-43FB-8ECD-D097FC8A977C}|AirportProject\\AirportProject.csproj|solutionrelative:airportproject\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46F7E307-5FBC-43FB-8ECD-D097FC8A977C}|AirportProject\\AirportProject.csproj|c:\\users\\hsyn\\source\\repos\\airportproject\\airportproject\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46F7E307-5FBC-43FB-8ECD-D097FC8A977C}|AirportProject\\AirportProject.csproj|solutionrelative:airportproject\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46F7E307-5FBC-43FB-8ECD-D097FC8A977C}|AirportProject\\AirportProject.csproj|c:\\users\\hsyn\\source\\repos\\airportproject\\airportproject\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46F7E307-5FBC-43FB-8ECD-D097FC8A977C}|AirportProject\\AirportProject.csproj|solutionrelative:airportproject\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F8736AA-0519-4529-8882-15FF71B8A3F1}|Services\\Services.csproj|c:\\users\\hsyn\\source\\repos\\airportproject\\services\\concrete\\featuresservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F8736AA-0519-4529-8882-15FF71B8A3F1}|Services\\Services.csproj|solutionrelative:services\\concrete\\featuresservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F8736AA-0519-4529-8882-15FF71B8A3F1}|Services\\Services.csproj|c:\\users\\hsyn\\source\\repos\\airportproject\\services\\contract\\ifeaturesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F8736AA-0519-4529-8882-15FF71B8A3F1}|Services\\Services.csproj|solutionrelative:services\\contract\\ifeaturesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F8736AA-0519-4529-8882-15FF71B8A3F1}|Services\\Services.csproj|c:\\users\\hsyn\\source\\repos\\airportproject\\services\\concrete\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F8736AA-0519-4529-8882-15FF71B8A3F1}|Services\\Services.csproj|solutionrelative:services\\concrete\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F8736AA-0519-4529-8882-15FF71B8A3F1}|Services\\Services.csproj|c:\\users\\hsyn\\source\\repos\\airportproject\\services\\contract\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F8736AA-0519-4529-8882-15FF71B8A3F1}|Services\\Services.csproj|solutionrelative:services\\contract\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E701D52F-5408-4A91-AD28-6B5A0A61A09D}|Repositories\\Repositories.csproj|c:\\users\\hsyn\\source\\repos\\airportproject\\repositories\\concrete\\repositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E701D52F-5408-4A91-AD28-6B5A0A61A09D}|Repositories\\Repositories.csproj|solutionrelative:repositories\\concrete\\repositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E701D52F-5408-4A91-AD28-6B5A0A61A09D}|Repositories\\Repositories.csproj|c:\\users\\hsyn\\source\\repos\\airportproject\\repositories\\contract\\irepositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E701D52F-5408-4A91-AD28-6B5A0A61A09D}|Repositories\\Repositories.csproj|solutionrelative:repositories\\contract\\irepositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E701D52F-5408-4A91-AD28-6B5A0A61A09D}|Repositories\\Repositories.csproj|c:\\users\\hsyn\\source\\repos\\airportproject\\repositories\\concrete\\featuresrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E701D52F-5408-4A91-AD28-6B5A0A61A09D}|Repositories\\Repositories.csproj|solutionrelative:repositories\\concrete\\featuresrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E701D52F-5408-4A91-AD28-6B5A0A61A09D}|Repositories\\Repositories.csproj|c:\\users\\hsyn\\source\\repos\\airportproject\\repositories\\contract\\ifeaturesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E701D52F-5408-4A91-AD28-6B5A0A61A09D}|Repositories\\Repositories.csproj|solutionrelative:repositories\\contract\\ifeaturesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E701D52F-5408-4A91-AD28-6B5A0A61A09D}|Repositories\\Repositories.csproj|c:\\users\\hsyn\\source\\repos\\airportproject\\repositories\\concrete\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E701D52F-5408-4A91-AD28-6B5A0A61A09D}|Repositories\\Repositories.csproj|solutionrelative:repositories\\concrete\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E701D52F-5408-4A91-AD28-6B5A0A61A09D}|Repositories\\Repositories.csproj|c:\\users\\hsyn\\source\\repos\\airportproject\\repositories\\contract\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E701D52F-5408-4A91-AD28-6B5A0A61A09D}|Repositories\\Repositories.csproj|solutionrelative:repositories\\contract\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E701D52F-5408-4A91-AD28-6B5A0A61A09D}|Repositories\\Repositories.csproj|c:\\users\\hsyn\\source\\repos\\airportproject\\repositories\\concrete\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E701D52F-5408-4A91-AD28-6B5A0A61A09D}|Repositories\\Repositories.csproj|solutionrelative:repositories\\concrete\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E701D52F-5408-4A91-AD28-6B5A0A61A09D}|Repositories\\Repositories.csproj|c:\\users\\hsyn\\source\\repos\\airportproject\\repositories\\contract\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E701D52F-5408-4A91-AD28-6B5A0A61A09D}|Repositories\\Repositories.csproj|solutionrelative:repositories\\contract\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46F7E307-5FBC-43FB-8ECD-D097FC8A977C}|AirportProject\\AirportProject.csproj|c:\\users\\hsyn\\source\\repos\\airportproject\\airportproject\\migrations\\20241020124551_mig_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46F7E307-5FBC-43FB-8ECD-D097FC8A977C}|AirportProject\\AirportProject.csproj|solutionrelative:airportproject\\migrations\\20241020124551_mig_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46F7E307-5FBC-43FB-8ECD-D097FC8A977C}|AirportProject\\AirportProject.csproj|c:\\users\\hsyn\\source\\repos\\airportproject\\airportproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{46F7E307-5FBC-43FB-8ECD-D097FC8A977C}|AirportProject\\AirportProject.csproj|solutionrelative:airportproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E701D52F-5408-4A91-AD28-6B5A0A61A09D}|Repositories\\Repositories.csproj|c:\\users\\hsyn\\source\\repos\\airportproject\\repositories\\repositorycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E701D52F-5408-4A91-AD28-6B5A0A61A09D}|Repositories\\Repositories.csproj|solutionrelative:repositories\\repositorycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F8736AA-0519-4529-8882-15FF71B8A3F1}|Services\\Services.csproj|c:\\users\\hsyn\\source\\repos\\airportproject\\services\\services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3F8736AA-0519-4529-8882-15FF71B8A3F1}|Services\\Services.csproj|solutionrelative:services\\services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6AD2279-6F9A-4FA5-8C49-937987C7B3AE}|Entity\\Entity.csproj|c:\\users\\hsyn\\source\\repos\\airportproject\\entity\\model\\features.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6AD2279-6F9A-4FA5-8C49-937987C7B3AE}|Entity\\Entity.csproj|solutionrelative:entity\\model\\features.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6AD2279-6F9A-4FA5-8C49-937987C7B3AE}|Entity\\Entity.csproj|c:\\users\\hsyn\\source\\repos\\airportproject\\entity\\model\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6AD2279-6F9A-4FA5-8C49-937987C7B3AE}|Entity\\Entity.csproj|solutionrelative:entity\\model\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6AD2279-6F9A-4FA5-8C49-937987C7B3AE}|Entity\\Entity.csproj|c:\\users\\hsyn\\source\\repos\\airportproject\\entity\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6AD2279-6F9A-4FA5-8C49-937987C7B3AE}|Entity\\Entity.csproj|solutionrelative:entity\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hsyn\\source\\repos\\AirportProject\\AirportProject\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "AirportProject\\Views\\Category\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Hsyn\\source\\repos\\AirportProject\\AirportProject\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "AirportProject\\Views\\Category\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-20T13:30:13.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hsyn\\source\\repos\\AirportProject\\AirportProject\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "AirportProject\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Hsyn\\source\\repos\\AirportProject\\AirportProject\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "AirportProject\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-20T13:30:04.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\Hsyn\\source\\repos\\AirportProject\\AirportProject\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "AirportProject\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\Hsyn\\source\\repos\\AirportProject\\AirportProject\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "AirportProject\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAABwAAADAAAAAAAAgwC4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T13:28:45.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Hsyn\\source\\repos\\AirportProject\\AirportProject\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AirportProject\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Hsyn\\source\\repos\\AirportProject\\AirportProject\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AirportProject\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAQAAAAANDMzMzMLwBUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T13:27:17.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ServiceManager.cs",
+              "DocumentMoniker": "C:\\Users\\Hsyn\\source\\repos\\AirportProject\\Services\\Concrete\\ServiceManager.cs",
+              "RelativeDocumentMoniker": "Services\\Concrete\\ServiceManager.cs",
+              "ToolTip": "C:\\Users\\Hsyn\\source\\repos\\AirportProject\\Services\\Concrete\\ServiceManager.cs",
+              "RelativeToolTip": "Services\\Concrete\\ServiceManager.cs",
+              "ViewState": "AgIAAAgAAAAAaGZmZmYCwBYAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T13:25:21.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IServiceManager.cs",
+              "DocumentMoniker": "C:\\Users\\Hsyn\\source\\repos\\AirportProject\\Services\\Contract\\IServiceManager.cs",
+              "RelativeDocumentMoniker": "Services\\Contract\\IServiceManager.cs",
+              "ToolTip": "C:\\Users\\Hsyn\\source\\repos\\AirportProject\\Services\\Contract\\IServiceManager.cs",
+              "RelativeToolTip": "Services\\Contract\\IServiceManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T13:24:44.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hsyn\\source\\repos\\AirportProject\\AirportProject\\Program.cs",
+              "RelativeDocumentMoniker": "AirportProject\\Program.cs",
+              "ToolTip": "C:\\Users\\Hsyn\\source\\repos\\AirportProject\\AirportProject\\Program.cs",
+              "RelativeToolTip": "AirportProject\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwBYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T12:24:19.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hsyn\\source\\repos\\AirportProject\\AirportProject\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "AirportProject\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Hsyn\\source\\repos\\AirportProject\\AirportProject\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "AirportProject\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-20T13:34:04.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hsyn\\source\\repos\\AirportProject\\AirportProject\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "AirportProject\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Hsyn\\source\\repos\\AirportProject\\AirportProject\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "AirportProject\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-20T13:30:32.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FeaturesService.cs",
+              "DocumentMoniker": "C:\\Users\\Hsyn\\source\\repos\\AirportProject\\Services\\Concrete\\FeaturesService.cs",
+              "RelativeDocumentMoniker": "Services\\Concrete\\FeaturesService.cs",
+              "ToolTip": "C:\\Users\\Hsyn\\source\\repos\\AirportProject\\Services\\Concrete\\FeaturesService.cs",
+              "RelativeToolTip": "Services\\Concrete\\FeaturesService.cs",
+              "ViewState": "AgIAABwAAACAzczMzMwuwC4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T13:21:40.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IFeaturesService.cs",
+              "DocumentMoniker": "C:\\Users\\Hsyn\\source\\repos\\AirportProject\\Services\\Contract\\IFeaturesService.cs",
+              "RelativeDocumentMoniker": "Services\\Contract\\IFeaturesService.cs",
+              "ToolTip": "C:\\Users\\Hsyn\\source\\repos\\AirportProject\\Services\\Contract\\IFeaturesService.cs",
+              "RelativeToolTip": "Services\\Contract\\IFeaturesService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T13:19:28.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\Hsyn\\source\\repos\\AirportProject\\Services\\Concrete\\CategoryService.cs",
+              "RelativeDocumentMoniker": "Services\\Concrete\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\Hsyn\\source\\repos\\AirportProject\\Services\\Concrete\\CategoryService.cs",
+              "RelativeToolTip": "Services\\Concrete\\CategoryService.cs",
+              "ViewState": "AgIAABkAAADAZ2ZmZmYnwC4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T13:15:50.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\Hsyn\\source\\repos\\AirportProject\\Services\\Contract\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "Services\\Contract\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\Hsyn\\source\\repos\\AirportProject\\Services\\Contract\\ICategoryService.cs",
+              "RelativeToolTip": "Services\\Contract\\ICategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T13:14:07.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RepositoryManager.cs",
+              "DocumentMoniker": "C:\\Users\\Hsyn\\source\\repos\\AirportProject\\Repositories\\Concrete\\RepositoryManager.cs",
+              "RelativeDocumentMoniker": "Repositories\\Concrete\\RepositoryManager.cs",
+              "ToolTip": "C:\\Users\\Hsyn\\source\\repos\\AirportProject\\Repositories\\Concrete\\RepositoryManager.cs",
+              "RelativeToolTip": "Repositories\\Concrete\\RepositoryManager.cs",
+              "ViewState": "AgIAABYAAADAZ2ZmZmYswBwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T13:09:35.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IRepositoryManager.cs",
+              "DocumentMoniker": "C:\\Users\\Hsyn\\source\\repos\\AirportProject\\Repositories\\Contract\\IRepositoryManager.cs",
+              "RelativeDocumentMoniker": "Repositories\\Contract\\IRepositoryManager.cs",
+              "ToolTip": "C:\\Users\\Hsyn\\source\\repos\\AirportProject\\Repositories\\Contract\\IRepositoryManager.cs",
+              "RelativeToolTip": "Repositories\\Contract\\IRepositoryManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T13:08:37.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FeaturesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Hsyn\\source\\repos\\AirportProject\\Repositories\\Concrete\\FeaturesRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Concrete\\FeaturesRepository.cs",
+              "ToolTip": "C:\\Users\\Hsyn\\source\\repos\\AirportProject\\Repositories\\Concrete\\FeaturesRepository.cs",
+              "RelativeToolTip": "Repositories\\Concrete\\FeaturesRepository.cs",
+              "ViewState": "AgIAAAwAAABAzczMzMw5wBgAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T13:06:38.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IFeaturesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Hsyn\\source\\repos\\AirportProject\\Repositories\\Contract\\IFeaturesRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Contract\\IFeaturesRepository.cs",
+              "ToolTip": "C:\\Users\\Hsyn\\source\\repos\\AirportProject\\Repositories\\Contract\\IFeaturesRepository.cs",
+              "RelativeToolTip": "Repositories\\Contract\\IFeaturesRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T13:04:28.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Hsyn\\source\\repos\\AirportProject\\Repositories\\Concrete\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Concrete\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Hsyn\\source\\repos\\AirportProject\\Repositories\\Concrete\\CategoryRepository.cs",
+              "RelativeToolTip": "Repositories\\Concrete\\CategoryRepository.cs",
+              "ViewState": "AgIAAA0AAACAm5mZmZkdwBQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T13:02:38.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Hsyn\\source\\repos\\AirportProject\\Repositories\\Contract\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Contract\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Hsyn\\source\\repos\\AirportProject\\Repositories\\Contract\\ICategoryRepository.cs",
+              "RelativeToolTip": "Repositories\\Contract\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T13:00:51.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RepositoryBase.cs",
+              "DocumentMoniker": "C:\\Users\\Hsyn\\source\\repos\\AirportProject\\Repositories\\Concrete\\RepositoryBase.cs",
+              "RelativeDocumentMoniker": "Repositories\\Concrete\\RepositoryBase.cs",
+              "ToolTip": "C:\\Users\\Hsyn\\source\\repos\\AirportProject\\Repositories\\Concrete\\RepositoryBase.cs",
+              "RelativeToolTip": "Repositories\\Concrete\\RepositoryBase.cs",
+              "ViewState": "AgIAAAwAAABQ//////8swBYAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T12:55:51.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IRepositoryBase.cs",
+              "DocumentMoniker": "C:\\Users\\Hsyn\\source\\repos\\AirportProject\\Repositories\\Contract\\IRepositoryBase.cs",
+              "RelativeDocumentMoniker": "Repositories\\Contract\\IRepositoryBase.cs",
+              "ToolTip": "C:\\Users\\Hsyn\\source\\repos\\AirportProject\\Repositories\\Contract\\IRepositoryBase.cs",
+              "RelativeToolTip": "Repositories\\Contract\\IRepositoryBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T12:53:44.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20241020124551_mig_1.cs",
+              "DocumentMoniker": "C:\\Users\\Hsyn\\source\\repos\\AirportProject\\AirportProject\\Migrations\\20241020124551_mig_1.cs",
+              "RelativeDocumentMoniker": "AirportProject\\Migrations\\20241020124551_mig_1.cs",
+              "ToolTip": "C:\\Users\\Hsyn\\source\\repos\\AirportProject\\AirportProject\\Migrations\\20241020124551_mig_1.cs",
+              "RelativeToolTip": "AirportProject\\Migrations\\20241020124551_mig_1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T12:46:11.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "RepositoryContext.cs",
+              "DocumentMoniker": "C:\\Users\\Hsyn\\source\\repos\\AirportProject\\Repositories\\RepositoryContext.cs",
+              "RelativeDocumentMoniker": "Repositories\\RepositoryContext.cs",
+              "ToolTip": "C:\\Users\\Hsyn\\source\\repos\\AirportProject\\Repositories\\RepositoryContext.cs",
+              "RelativeToolTip": "Repositories\\RepositoryContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T12:37:06.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Services.csproj",
+              "DocumentMoniker": "C:\\Users\\Hsyn\\source\\repos\\AirportProject\\Services\\Services.csproj",
+              "RelativeDocumentMoniker": "Services\\Services.csproj",
+              "ToolTip": "C:\\Users\\Hsyn\\source\\repos\\AirportProject\\Services\\Services.csproj",
+              "RelativeToolTip": "Services\\Services.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-20T12:36:01.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Features.cs",
+              "DocumentMoniker": "C:\\Users\\Hsyn\\source\\repos\\AirportProject\\Entity\\Model\\Features.cs",
+              "RelativeDocumentMoniker": "Entity\\Model\\Features.cs",
+              "ToolTip": "C:\\Users\\Hsyn\\source\\repos\\AirportProject\\Entity\\Model\\Features.cs",
+              "RelativeToolTip": "Entity\\Model\\Features.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T12:28:58.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Hsyn\\source\\repos\\AirportProject\\AirportProject\\appsettings.json",
+              "RelativeDocumentMoniker": "AirportProject\\appsettings.json",
+              "ToolTip": "C:\\Users\\Hsyn\\source\\repos\\AirportProject\\AirportProject\\appsettings.json",
+              "RelativeToolTip": "AirportProject\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAC6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-20T12:18:24.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\Hsyn\\source\\repos\\AirportProject\\Entity\\Model\\Role.cs",
+              "RelativeDocumentMoniker": "Entity\\Model\\Role.cs",
+              "ToolTip": "C:\\Users\\Hsyn\\source\\repos\\AirportProject\\Entity\\Model\\Role.cs",
+              "RelativeToolTip": "Entity\\Model\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T12:12:07.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Hsyn\\source\\repos\\AirportProject\\Entity\\Model\\User.cs",
+              "RelativeDocumentMoniker": "Entity\\Model\\User.cs",
+              "ToolTip": "C:\\Users\\Hsyn\\source\\repos\\AirportProject\\Entity\\Model\\User.cs",
+              "RelativeToolTip": "Entity\\Model\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T12:11:44.376Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
